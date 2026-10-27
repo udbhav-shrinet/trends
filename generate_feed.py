@@ -406,7 +406,9 @@ def build_snapshot():
         'all_signals': all_signals
     }
 
-    out_json = 'C:/Users/udish/gh_workspace/trends/docs/data.json'
+    out_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'docs')
+    os.makedirs(out_dir, exist_ok=True)
+    out_json = os.path.join(out_dir, 'data.json')
     with open(out_json, 'w', encoding='utf-8') as f:
         json.dump(payload, f, indent=2, ensure_ascii=False)
     print(f"[✓] Successfully wrote snapshot with {len(all_signals)} items to {out_json}")
