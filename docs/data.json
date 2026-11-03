@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02 14:40 UTC",
-  "date_display": "November 02, 2026",
-  "total_signals": 119,
+  "generated_at": "2026-11-03 00:27 UTC",
+  "date_display": "November 03, 2026",
+  "total_signals": 104,
   "metrics": {
     "google_trends": 20,
     "hacker_news": 15,
@@ -12,24 +12,24 @@
     "fediverse": 14,
     "techmeme": 10,
     "bbc_world": 10,
-    "wikipedia": 15
+    "wikipedia": 0
   },
   "sentiment": {
     "fear_and_greed": {
-      "value": "37",
+      "value": "26",
       "sentiment": "Fear"
     },
     "trending_tags": [
-      "SilentSunday",
-      "DoorToDoorABook",
       "Fotomontag",
       "Monsterdon",
-      "bravanofediverso",
-      "PhotoMonday",
-      "HalloweenCandyAMovie",
+      "segundaficha",
+      "MonochromeMonday",
       "villageofthedamned1960",
-      "フォロワーさんが引用で雑に紹介してくれる",
-      "kpopmonday"
+      "PhotoMonday",
+      "MountainMonday",
+      "SilentSunday",
+      "MondayMotivation",
+      "DoorToDoorABook"
     ]
   },
   "channels": {
@@ -37,7 +37,17 @@
       {
         "category": "search",
         "source": "Google Trends (US)",
-        "title": "casper ruud",
+        "title": "avalanche vs blackhawks",
+        "traffic": "1000+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=US",
+        "badge": "Search Spike",
+        "metric": "🔥 1000+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (US)",
+        "title": "college basketball scores",
         "traffic": "200+",
         "snippet": "",
         "url": "https://trends.google.com/trending/rss?geo=US",
@@ -47,7 +57,7 @@
       {
         "category": "search",
         "source": "Google Trends (US)",
-        "title": "what time does the stock market open",
+        "title": "lsu women's basketball",
         "traffic": "200+",
         "snippet": "",
         "url": "https://trends.google.com/trending/rss?geo=US",
@@ -57,7 +67,7 @@
       {
         "category": "search",
         "source": "Google Trends (US)",
-        "title": "diwali 2026",
+        "title": "bucks vs timberwolves",
         "traffic": "5000+",
         "snippet": "",
         "url": "https://trends.google.com/trending/rss?geo=US",
@@ -67,427 +77,417 @@
       {
         "category": "search",
         "source": "Google Trends (US)",
-        "title": "today show",
-        "traffic": "200+",
+        "title": "quinnipiac vs mi state",
+        "traffic": "5000+",
         "snippet": "",
         "url": "https://trends.google.com/trending/rss?geo=US",
         "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
+        "metric": "🔥 5000+ searches"
       },
       {
         "category": "search",
         "source": "Google Trends (US)",
-        "title": "ice post release immigrant detentions",
-        "traffic": "1000+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "badge": "Search Spike",
-        "metric": "🔥 1000+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (US)",
-        "title": "tracy morgan",
-        "traffic": "500+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "badge": "Search Spike",
-        "metric": "🔥 500+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (US)",
-        "title": "pagosa springs flooding",
-        "traffic": "500+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "badge": "Search Spike",
-        "metric": "🔥 500+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (US)",
-        "title": "andy richter",
-        "traffic": "200+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (US)",
-        "title": "bill murray",
-        "traffic": "1000+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "badge": "Search Spike",
-        "metric": "🔥 1000+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (US)",
-        "title": "internet invitational",
-        "traffic": "500+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=US",
-        "badge": "Search Spike",
-        "metric": "🔥 500+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "cameron norrie",
-        "traffic": "200+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
-        "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "bernard gallacher",
-        "traffic": "200+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
-        "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "eastenders craig ingram amy mitchell plot",
-        "traffic": "200+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
-        "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "lindsay clancy",
-        "traffic": "200+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
-        "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "russian su 57 fighter destruction",
-        "traffic": "200+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
-        "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "taika waititi",
-        "traffic": "500+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
-        "badge": "Search Spike",
-        "metric": "🔥 500+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "manchester evening news",
-        "traffic": "200+",
-        "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
-        "badge": "Search Spike",
-        "metric": "🔥 200+ searches"
-      },
-      {
-        "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "parkinsons film rhys ifans",
+        "title": "kings vs mavericks",
         "traffic": "2000+",
         "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "url": "https://trends.google.com/trending/rss?geo=US",
         "badge": "Search Spike",
         "metric": "🔥 2000+ searches"
       },
       {
         "category": "search",
-        "source": "Google Trends (GB)",
-        "title": "supermarket cooling systems hacked europe",
+        "source": "Google Trends (US)",
+        "title": "wcu vs unc",
+        "traffic": "5000+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=US",
+        "badge": "Search Spike",
+        "metric": "🔥 5000+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (US)",
+        "title": "pelicans vs grizzlies",
         "traffic": "2000+",
         "snippet": "",
-        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "url": "https://trends.google.com/trending/rss?geo=US",
         "badge": "Search Spike",
         "metric": "🔥 2000+ searches"
       },
       {
         "category": "search",
+        "source": "Google Trends (US)",
+        "title": "new haven vs syracuse",
+        "traffic": "5000+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=US",
+        "badge": "Search Spike",
+        "metric": "🔥 5000+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (US)",
+        "title": "kj britt",
+        "traffic": "500+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=US",
+        "badge": "Search Spike",
+        "metric": "🔥 500+ searches"
+      },
+      {
+        "category": "search",
         "source": "Google Trends (GB)",
-        "title": "navy lookout",
+        "title": "великобритания",
+        "traffic": "100+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 100+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "pokémon go",
+        "traffic": "100+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 100+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "b&m morrisons",
+        "traffic": "1000+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 1000+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "landlord sums tribunal rent study",
+        "traffic": "200+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 200+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "cavaliers vs thunder",
+        "traffic": "200+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 200+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "migrants rescued dutch coast boat",
+        "traffic": "200+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 200+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "government bond",
         "traffic": "500+",
         "snippet": "",
         "url": "https://trends.google.com/trending/rss?geo=GB",
         "badge": "Search Spike",
         "metric": "🔥 500+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "bragantino vs santos",
+        "traffic": "500+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 500+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "arnold schwarzenegger",
+        "traffic": "200+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 200+ searches"
+      },
+      {
+        "category": "search",
+        "source": "Google Trends (GB)",
+        "title": "line of duty season 7",
+        "traffic": "2000+",
+        "snippet": "",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "badge": "Search Spike",
+        "metric": "🔥 2000+ searches"
       }
     ],
     "tech": [
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "HackerTube: YouTube built from videos recommended by HN",
-        "author": "karpathy",
-        "points": 2716,
-        "comments": 601,
-        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "title": "Astra can read and write weights to improve Qwen",
+        "author": "dbreunig",
+        "points": 1768,
+        "comments": 560,
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/",
         "badge": "Front Page",
-        "metric": "▲ 2,716 pts • 💬 601 comments"
+        "metric": "▲ 1,768 pts • 💬 560 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-        "author": "roansh",
-        "points": 1656,
+        "title": "WTF Ubuntu?",
+        "author": "chalmovsky",
+        "points": 1280,
+        "comments": 575,
+        "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+        "badge": "Front Page",
+        "metric": "▲ 1,280 pts • 💬 575 comments"
+      },
+      {
+        "category": "tech",
+        "source": "Hacker News",
+        "title": "Show HN: Subvocal – Talk to your computer without making noise",
+        "author": "aarushyadav",
+        "points": 510,
         "comments": 274,
-        "url": "https://hackerbooks.org",
+        "url": "https://news.ycombinator.com/item?id=50340088",
         "badge": "Front Page",
-        "metric": "▲ 1,656 pts • 💬 274 comments"
+        "metric": "▲ 510 pts • 💬 274 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Postgres 19 is late because so many more bugs are being found now",
-        "author": "soheilpro",
-        "points": 651,
-        "comments": 397,
-        "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-        "badge": "Front Page",
-        "metric": "▲ 651 pts • 💬 397 comments"
-      },
-      {
-        "category": "tech",
-        "source": "Hacker News",
-        "title": "Ask HN: Which TV do you recommend for privacy?",
-        "author": "LecroJS",
-        "points": 536,
-        "comments": 644,
-        "url": "https://news.ycombinator.com/item?id=50328896",
-        "badge": "Front Page",
-        "metric": "▲ 536 pts • 💬 644 comments"
-      },
-      {
-        "category": "tech",
-        "source": "Hacker News",
-        "title": "The AI cost of JavaScript frameworks",
-        "author": "luu",
-        "points": 415,
-        "comments": 322,
-        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "badge": "Front Page",
-        "metric": "▲ 415 pts • 💬 322 comments"
-      },
-      {
-        "category": "tech",
-        "source": "Hacker News",
-        "title": "OccupySaaS",
-        "author": "misswaterfairy",
-        "points": 399,
-        "comments": 249,
-        "url": "https://occupysaas.com/",
-        "badge": "Front Page",
-        "metric": "▲ 399 pts • 💬 249 comments"
-      },
-      {
-        "category": "tech",
-        "source": "Hacker News",
-        "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-        "author": "aizk",
-        "points": 314,
+        "title": "If you love a website, back it up",
+        "author": "ingve",
+        "points": 373,
         "comments": 92,
-        "url": "https://wikihack.netlify.app",
+        "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
         "badge": "Front Page",
-        "metric": "▲ 314 pts • 💬 92 comments"
+        "metric": "▲ 373 pts • 💬 92 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-        "author": "FabCH",
-        "points": 279,
-        "comments": 84,
-        "url": "https://github.com/ivankovic/omnidiff",
+        "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+        "author": "majorchord",
+        "points": 289,
+        "comments": 58,
+        "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
         "badge": "Front Page",
-        "metric": "▲ 279 pts • 💬 84 comments"
+        "metric": "▲ 289 pts • 💬 58 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Show HN: Point your camera at a landscape to learn about its geology",
-        "author": "headsupernova",
-        "points": 232,
+        "title": "US boy names that became girl names and vice versa",
+        "author": "xoobdev",
+        "points": 266,
+        "comments": 294,
+        "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+        "badge": "Front Page",
+        "metric": "▲ 266 pts • 💬 294 comments"
+      },
+      {
+        "category": "tech",
+        "source": "Hacker News",
+        "title": "Show HN: I've updated my Linux System Call website and API",
+        "author": "guitmz",
+        "points": 204,
         "comments": 48,
-        "url": "https://outcrop.rocks/",
+        "url": "https://syscall.sh/",
         "badge": "Front Page",
-        "metric": "▲ 232 pts • 💬 48 comments"
+        "metric": "▲ 204 pts • 💬 48 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-        "author": "_Microft",
-        "points": 198,
-        "comments": 88,
-        "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+        "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+        "author": "stared",
+        "points": 200,
+        "comments": 35,
+        "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
         "badge": "Front Page",
-        "metric": "▲ 198 pts • 💬 88 comments"
+        "metric": "▲ 200 pts • 💬 35 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Radiation Map of the World",
-        "author": "slater",
-        "points": 196,
-        "comments": 54,
-        "url": "https://radiaverse.com/",
+        "title": "Ask HN: Who is hiring? (November 2026)",
+        "author": "whoishiring",
+        "points": 167,
+        "comments": 137,
+        "url": "https://news.ycombinator.com/item?id=50338728",
         "badge": "Front Page",
-        "metric": "▲ 196 pts • 💬 54 comments"
+        "metric": "▲ 167 pts • 💬 137 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Bones may release proteins that slow aging and extend life span",
-        "author": "EA-3167",
-        "points": 193,
-        "comments": 67,
-        "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+        "title": "Moving our warehouse off DuckDB",
+        "author": "emschwartz",
+        "points": 154,
+        "comments": 106,
+        "url": "https://posthog.com/blog/moving-off-duckdb",
         "badge": "Front Page",
-        "metric": "▲ 193 pts • 💬 67 comments"
+        "metric": "▲ 154 pts • 💬 106 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "Copper – A minimal low-level programming language with OOP and generics",
-        "author": "bogdanoff_2",
-        "points": 186,
-        "comments": 104,
-        "url": "https://tibleiz.net/copper/",
+        "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+        "author": "smartmic",
+        "points": 143,
+        "comments": 102,
+        "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
         "badge": "Front Page",
-        "metric": "▲ 186 pts • 💬 104 comments"
+        "metric": "▲ 143 pts • 💬 102 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "One-minute frequency disturbances from synchronization in power systems",
-        "author": "croes",
-        "points": 174,
-        "comments": 57,
-        "url": "https://www.nature.com/articles/s41560-026-02144-0",
+        "title": "We halved DNS build delay and cut memory use by 85%",
+        "author": "wondersky",
+        "points": 133,
+        "comments": 44,
+        "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
         "badge": "Front Page",
-        "metric": "▲ 174 pts • 💬 57 comments"
+        "metric": "▲ 133 pts • 💬 44 comments"
       },
       {
         "category": "tech",
         "source": "Hacker News",
-        "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-        "author": "joonehur",
-        "points": 169,
-        "comments": 22,
-        "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+        "title": "Anthropic's growth just flattened",
+        "author": "cdrnsf",
+        "points": 131,
+        "comments": 154,
+        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
         "badge": "Front Page",
-        "metric": "▲ 169 pts • 💬 22 comments"
+        "metric": "▲ 131 pts • 💬 154 comments"
+      },
+      {
+        "category": "tech",
+        "source": "Hacker News",
+        "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+        "author": "cdrnsf",
+        "points": 123,
+        "comments": 68,
+        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+        "badge": "Front Page",
+        "metric": "▲ 123 pts • 💬 68 comments"
+      },
+      {
+        "category": "tech",
+        "source": "Hacker News",
+        "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+        "author": "wuweiweiwu",
+        "points": 115,
+        "comments": 75,
+        "url": "https://momentic.ai/",
+        "badge": "Front Page",
+        "metric": "▲ 115 pts • 💬 75 comments"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Memo: Alphabet is issuing €6B in euro-denominated debt across seven tranches, attracting €17B+ of demand; the company sold €9B of bonds earlier in 2026 (Reuters)",
-        "description": "Reuters:\nMemo: Alphabet is issuing &euro;6B in euro-denominated debt across seven tranches, attracting &euro;17B+ of demand; the c...",
-        "url": "https://www.techmeme.com/261102/p22#a261102p22",
+        "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
+        "description": "Marina Temkin / TechCrunch:\nTrajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M...",
+        "url": "https://www.techmeme.com/261102/p45#a261102p45",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience (Ivan Mehta/TechCrunch)",
-        "description": "Ivan Mehta / TechCrunch:\nEmail: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before ...",
-        "url": "https://www.techmeme.com/261102/p21#a261102p21",
+        "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
+        "description": "Julie Bort / TechCrunch:\nAnthropic S-1 claims it may &ldquo;imminently meet&rdquo; its RSI threshold and may fail to identify &ldq...",
+        "url": "https://www.techmeme.com/261102/p44#a261102p44",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits (Siladitya Ray/Forbes)",
-        "description": "Siladitya Ray / Forbes:\nElon Musk says the cost of serving Grok Bot was &ldquo;unsustainably high relative to revenue&rdquo;, in r...",
-        "url": "https://www.techmeme.com/261102/p20#a261102p20",
+        "title": "Brazil's largest crypto exchange Mercado Bitcoin halts withdrawals after a breach involving $46M+ in assets, per Arkham; Tether froze 4.5M+ USDT in response (Jason Shubnell/The Block)",
+        "description": "Jason Shubnell / The Block:\nBrazil's largest crypto exchange Mercado Bitcoin halts withdrawals after a breach involving $46M+ in a...",
+        "url": "https://www.techmeme.com/261102/p43#a261102p43",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "A look at AI safety debates and the rising popularity of \"Stop Unilaterally + Raise Awareness\", or SURA; safety-focused AI labs shouldn't abandon the AI race (Scott Alexander/LessWrong)",
-        "description": "Scott Alexander / LessWrong:\nA look at AI safety debates and the rising popularity of &ldquo;Stop Unilaterally + Raise Awareness&r...",
-        "url": "https://www.techmeme.com/261102/p19#a261102p19",
+        "title": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
+        "description": "Wall Street Journal:\nSources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down ...",
+        "url": "https://www.techmeme.com/261102/p42#a261102p42",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Analysis: Elon Musk contributed a record $474M to political groups for the 2026 midterms, including $216M to America PAC, the highest non-candidate spend ever (Theodore Schleifer/New York Times)",
-        "description": "Theodore Schleifer / New York Times:\nAnalysis: Elon Musk contributed a record $474M to political groups for the 2026 midterms, inc...",
-        "url": "https://www.techmeme.com/261102/p18#a261102p18",
+        "title": "Apple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and more, grew 10% YoY to $31.57B, vs. $31.58B est. (Loree Seitz/The Wrap)",
+        "description": "Loree Seitz / The Wrap:\nApple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and m...",
+        "url": "https://www.techmeme.com/261102/p41#a261102p41",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Hirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies (Rest of World)",
-        "description": "Rest of World:\nHirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorshi...",
-        "url": "https://www.techmeme.com/261102/p17#a261102p17",
+        "title": "Apple Q4: iPhone up 17% YoY to $57.58B, vs. $56.54B est., Mac up 24% to $10.8B, iPad down 10% to $6.2B, and Wearables, Home, and Accessories down 8% to $8.3B (Marcus Mendes/9to5Mac)",
+        "description": "Marcus Mendes / 9to5Mac:\nApple Q4: iPhone up 17% YoY to $57.58B, vs. $56.54B est., Mac up 24% to $10.8B, iPad down 10% to $6.2B, a...",
+        "url": "https://www.techmeme.com/261102/p40#a261102p40",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Marvell's $115B Lumentum acquisition is one of the biggest tech deals ever and 2026's top M&A deal; Lumentum is up 128% YTD, giving it a ~$76B market cap (Bloomberg)",
-        "description": "Bloomberg:\nMarvell's $115B Lumentum acquisition is one of the biggest tech deals ever and 2026's top M&amp;A deal; Lumentum is up ...",
-        "url": "https://www.techmeme.com/261102/p16#a261102p16",
+        "title": "Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report (Apple)",
+        "description": "Apple:\nApple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in Joh...",
+        "url": "https://www.techmeme.com/261102/p39#a261102p39",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access (Washington Post)",
-        "description": "Washington Post:\nSources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile,...",
-        "url": "https://www.techmeme.com/261102/p15#a261102p15",
+        "title": "Palantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% YoY to $984M, and raises FY 2026 revenue guidance to ~$8.53B (Samantha Subin/CNBC)",
+        "description": "Samantha Subin / CNBC:\nPalantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% YoY to $...",
+        "url": "https://www.techmeme.com/261102/p38#a261102p38",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026 (Anhata Rooprai/Reuters)",
-        "description": "Anhata Rooprai / Reuters:\nMarvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to riv...",
-        "url": "https://www.techmeme.com/261102/p14#a261102p14",
+        "title": "Roku Q3: revenue up 24% YoY to $1.5B, Platform revenue up 23% YoY to $1.3B, ad revenue up 23% YoY to $727.4M, and subscriptions revenue up 23% YoY to $580.9M (Todd Spangler/Variety)",
+        "description": "Todd Spangler / Variety:\nRoku Q3: revenue up 24% YoY to $1.5B, Platform revenue up 23% YoY to $1.3B, ad revenue up 23% YoY to $727...",
+        "url": "https://www.techmeme.com/261102/p37#a261102p37",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       },
       {
         "category": "tech",
         "source": "Techmeme",
-        "title": "Supermarkets in Belgium, Ireland, Sweden, Finland, and Estonia report fridge and freezer temperature spikes due to suspected hacks, echoing attacks in France (Bloomberg)",
-        "description": "Bloomberg:\nSupermarkets in Belgium, Ireland, Sweden, Finland, and Estonia report fridge and freezer temperature spikes due to susp...",
-        "url": "https://www.techmeme.com/261102/p13#a261102p13",
+        "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+        "description": "Rikiya Takehi:\nResearchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5...",
+        "url": "https://www.techmeme.com/261102/p36#a261102p36",
         "badge": "Curated Tech",
         "metric": "⚡ Top Industry Story"
       }
@@ -501,7 +501,7 @@
         "language": "Rust",
         "url": "https://github.com/vercel-labs/agent-desktop",
         "badge": "Rust",
-        "metric": "⭐ +2,243 today"
+        "metric": "⭐ +2,275 today"
       },
       {
         "category": "dev",
@@ -511,7 +511,7 @@
         "language": "C++",
         "url": "https://github.com/hyprwm/Hyprland",
         "badge": "C++",
-        "metric": "⭐ +508 today"
+        "metric": "⭐ +509 today"
       },
       {
         "category": "dev",
@@ -521,7 +521,7 @@
         "language": "Python",
         "url": "https://github.com/FlashML-org/FreeToken",
         "badge": "Python",
-        "metric": "⭐ +654 today"
+        "metric": "⭐ +653 today"
       },
       {
         "category": "dev",
@@ -531,7 +531,7 @@
         "language": "TypeScript",
         "url": "https://github.com/pingdotgg/t3code",
         "badge": "TypeScript",
-        "metric": "⭐ +3,216 today"
+        "metric": "⭐ +3,229 today"
       },
       {
         "category": "dev",
@@ -541,7 +541,7 @@
         "language": "Python",
         "url": "https://github.com/shiyu-coder/Kronos",
         "badge": "Python",
-        "metric": "⭐ +855 today"
+        "metric": "⭐ +857 today"
       },
       {
         "category": "dev",
@@ -551,7 +551,7 @@
         "language": "C",
         "url": "https://github.com/JustVugg/colibri",
         "badge": "C",
-        "metric": "⭐ +655 today"
+        "metric": "⭐ +675 today"
       },
       {
         "category": "dev",
@@ -561,19 +561,10 @@
         "language": "Rust",
         "url": "https://github.com/max-sixty/worktrunk",
         "badge": "Rust",
-        "metric": "⭐ +115 today"
+        "metric": "⭐ +77 today"
       }
     ],
     "ai": [
-      {
-        "category": "ai",
-        "source": "Hugging Face",
-        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "description": "Trending AI Foundation Model (image-text-to-text)",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "badge": "image-text-to-text",
-        "metric": "❤️ 4,613 likes • 📥 177,009 dls"
-      },
       {
         "category": "ai",
         "source": "Hugging Face",
@@ -581,7 +572,16 @@
         "description": "Trending AI Foundation Model (text-generation)",
         "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
         "badge": "text-generation",
-        "metric": "❤️ 782 likes • 📥 42,384 dls"
+        "metric": "❤️ 999 likes • 📥 42,384 dls"
+      },
+      {
+        "category": "ai",
+        "source": "Hugging Face",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "description": "Trending AI Foundation Model (image-text-to-text)",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "badge": "image-text-to-text",
+        "metric": "❤️ 4,696 likes • 📥 177,009 dls"
       },
       {
         "category": "ai",
@@ -590,7 +590,7 @@
         "description": "Trending AI Foundation Model (automatic-speech-recognition)",
         "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
         "badge": "automatic-speech-recognition",
-        "metric": "❤️ 649 likes • 📥 32,439 dls"
+        "metric": "❤️ 681 likes • 📥 32,439 dls"
       },
       {
         "category": "ai",
@@ -599,7 +599,7 @@
         "description": "Trending AI Foundation Model (image-text-to-text)",
         "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
         "badge": "image-text-to-text",
-        "metric": "❤️ 1,477 likes • 📥 5,500 dls"
+        "metric": "❤️ 1,500 likes • 📥 5,500 dls"
       },
       {
         "category": "ai",
@@ -608,25 +608,7 @@
         "description": "Trending AI Foundation Model (image-text-to-text)",
         "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
         "badge": "image-text-to-text",
-        "metric": "❤️ 550 likes • 📥 147,588 dls"
-      },
-      {
-        "category": "ai",
-        "source": "Hugging Face",
-        "title": "Lightricks/LTX-2.5",
-        "description": "Trending AI Foundation Model (image-to-video)",
-        "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "badge": "image-to-video",
-        "metric": "❤️ 10,306 likes • 📥 2,467,613 dls"
-      },
-      {
-        "category": "ai",
-        "source": "Hugging Face",
-        "title": "ccore/Qwen3.5-4B-3D-Coder",
-        "description": "Trending AI Foundation Model (AI Model)",
-        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-        "badge": "AI Model",
-        "metric": "❤️ 530 likes • 📥 63,499 dls"
+        "metric": "❤️ 561 likes • 📥 147,588 dls"
       },
       {
         "category": "ai",
@@ -635,7 +617,25 @@
         "description": "Trending AI Foundation Model (image-to-3d)",
         "url": "https://huggingface.co/speridlabs/idol",
         "badge": "image-to-3d",
-        "metric": "❤️ 373 likes • 📥 7,787 dls"
+        "metric": "❤️ 415 likes • 📥 7,787 dls"
+      },
+      {
+        "category": "ai",
+        "source": "Hugging Face",
+        "title": "Lightricks/LTX-2.5",
+        "description": "Trending AI Foundation Model (image-to-video)",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "badge": "image-to-video",
+        "metric": "❤️ 10,360 likes • 📥 2,467,613 dls"
+      },
+      {
+        "category": "ai",
+        "source": "Hugging Face",
+        "title": "ccore/Qwen3.5-4B-3D-Coder",
+        "description": "Trending AI Foundation Model (AI Model)",
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+        "badge": "AI Model",
+        "metric": "❤️ 560 likes • 📥 63,499 dls"
       },
       {
         "category": "ai",
@@ -644,16 +644,7 @@
         "description": "Trending AI Foundation Model (image-to-video)",
         "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
         "badge": "image-to-video",
-        "metric": "❤️ 341 likes • 📥 491 dls"
-      },
-      {
-        "category": "ai",
-        "source": "Hugging Face",
-        "title": "Nanbeige/Nanbeige4.3-33B",
-        "description": "Trending AI Foundation Model (text-generation)",
-        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-        "badge": "text-generation",
-        "metric": "❤️ 997 likes • 📥 16,976 dls"
+        "metric": "❤️ 359 likes • 📥 491 dls"
       },
       {
         "category": "ai",
@@ -662,7 +653,7 @@
         "description": "Trending AI Foundation Model (image-text-to-text)",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
         "badge": "image-text-to-text",
-        "metric": "❤️ 18,977 likes • 📥 7,915,637 dls"
+        "metric": "❤️ 19,013 likes • 📥 7,915,637 dls"
       },
       {
         "category": "ai",
@@ -671,7 +662,16 @@
         "description": "Trending AI Foundation Model (text-to-image)",
         "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
         "badge": "text-to-image",
-        "metric": "❤️ 5,521 likes • 📥 2,516,622 dls"
+        "metric": "❤️ 5,549 likes • 📥 2,516,622 dls"
+      },
+      {
+        "category": "ai",
+        "source": "Hugging Face",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "description": "Trending AI Foundation Model (image-to-image)",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "badge": "image-to-image",
+        "metric": "❤️ 2,354 likes • 📥 1,003,813 dls"
       },
       {
         "category": "ai",
@@ -758,74 +758,92 @@
       {
         "category": "social",
         "source": "Fediverse / Mastodon",
-        "title": "It has been 247 days since the Trump administration bombed a primary school in southern Iran, killing 156 civilians, including 120 schoolchi...",
-        "author": "@randahl",
-        "url": "https://mastodon.social/@randahl/117546681572313421",
+        "title": "Sitting in on a meeting of radio astronomers and learning that the FCC is gradually auctioning off the radio frequency bands we need for wea...",
+        "author": "@sundogplanets",
+        "url": "https://mastodon.social/@sundogplanets/117548478464801180",
         "badge": "Viral Post",
-        "metric": "❤️ 66 • 🔁 85"
+        "metric": "❤️ 261 • 🔁 288"
       },
       {
         "category": "social",
         "source": "Fediverse / Mastodon",
-        "title": "Tomorrow morning I’ll sign in for my 16 hr shift as a NYS election inspector. I’ll boot up the machines.I’ll provide voters w the correct ba...",
-        "author": "@xankarn",
-        "url": "https://mastodon.online/@xankarn/117546714147097661",
-        "badge": "Viral Post",
-        "metric": "❤️ 143 • 🔁 98"
-      },
-      {
-        "category": "social",
-        "source": "Fediverse / Mastodon",
-        "title": "Google Chrome no longer supports uBlock Origin - but you don&#39;t have to depend on such intrusive tech!There are excellent alternative bro...",
-        "author": "@Tutanota",
-        "url": "https://mastodon.social/@Tutanota/117546498276278936",
-        "badge": "Viral Post",
-        "metric": "❤️ 86 • 🔁 75"
-      },
-      {
-        "category": "social",
-        "source": "Fediverse / Mastodon",
-        "title": "‘Prompt This!’Acrylic on canvas - 2025#art #painting #HumanMade #NoAI",
-        "author": "@leemadgwick",
-        "url": "https://mastodonapp.uk/@leemadgwick/117546071661953732",
-        "badge": "Viral Post",
-        "metric": "❤️ 338 • 🔁 182"
-      },
-      {
-        "category": "social",
-        "source": "Fediverse / Mastodon",
-        "title": "In Poland, Romania and Germany, the Trump administration is openly supporting pro-Russian and anti-EU parties, some opposed to defense spend...",
-        "author": "@anneapplebaum",
-        "url": "https://journa.host/@anneapplebaum/117546065743824625",
-        "badge": "Viral Post",
-        "metric": "❤️ 165 • 🔁 214"
-      },
-      {
-        "category": "social",
-        "source": "Fediverse / Mastodon",
-        "title": "#meme #humour",
-        "author": "@cmconseils",
-        "url": "https://mastodon.social/@cmconseils/117546508234432497",
-        "badge": "Viral Post",
-        "metric": "❤️ 86 • 🔁 46"
-      },
-      {
-        "category": "social",
-        "source": "Fediverse / Mastodon",
-        "title": "Out for a proper walk for the first time in ages. The Doethie valley looking beautiful in its autumn colours.Couldn’t identify a bird call a...",
-        "author": "@helenclayton",
-        "url": "https://mas.to/@helenclayton/117546747289238815",
-        "badge": "Viral Post",
-        "metric": "❤️ 108 • 🔁 72"
-      },
-      {
-        "category": "social",
-        "source": "Fediverse / Mastodon",
-        "title": "I use 256GB to color in paint, screw you Altman",
+        "title": "Oof, I laughed a little too hard",
         "author": "@stux",
-        "url": "https://mstdn.social/@stux/117547115489035544",
+        "url": "https://mstdn.social/@stux/117549186520286585",
         "badge": "Viral Post",
-        "metric": "❤️ 69 • 🔁 40"
+        "metric": "❤️ 203 • 🔁 145"
+      },
+      {
+        "category": "social",
+        "source": "Fediverse / Mastodon",
+        "title": "Glad to see this reporting from the BBC: when the AI bubble bursts, companies that have gone bust will sell your data. https://www.bbc.com/f...",
+        "author": "@gvwilson",
+        "url": "https://mastodon.social/@gvwilson/117548893802339920",
+        "badge": "Viral Post",
+        "metric": "❤️ 83 • 🔁 169"
+      },
+      {
+        "category": "social",
+        "source": "Fediverse / Mastodon",
+        "title": "I was laid off today. First time I've dealt with something like this. Not much else to say at this stage.If anyone has meteorology work of a...",
+        "author": "@ingalls",
+        "url": "https://m.ai6yr.org/@ingalls/117549384446293510",
+        "badge": "Viral Post",
+        "metric": "❤️ 19 • 🔁 117"
+      },
+      {
+        "category": "social",
+        "source": "Fediverse / Mastodon",
+        "title": "Reddit is now login-onlyRIP Reddit",
+        "author": "@campuscodi",
+        "url": "https://mastodon.social/@campuscodi/117549159852365004",
+        "badge": "Viral Post",
+        "metric": "❤️ 99 • 🔁 60"
+      },
+      {
+        "category": "social",
+        "source": "Fediverse / Mastodon",
+        "title": "I just found out about #Kiln Share—an app that allows you to find people in your area who will let you fire #ceramics in their kiln at low c...",
+        "author": "@potterybyosa",
+        "url": "https://mastodon.social/@potterybyosa/117548749239610782",
+        "badge": "Viral Post",
+        "metric": "❤️ 140 • 🔁 127"
+      },
+      {
+        "category": "social",
+        "source": "Fediverse / Mastodon",
+        "title": "Hot Skeletons in your Area, Pt.IV",
+        "author": "@kimhu",
+        "url": "https://mastodon.social/@kimhu/117549200050475259",
+        "badge": "Viral Post",
+        "metric": "❤️ 94 • 🔁 44"
+      },
+      {
+        "category": "social",
+        "source": "Fediverse / Mastodon",
+        "title": "Dear American citizens, whatever you wish more German citizens would have done in 1933, do that now.",
+        "author": "@Strandjunker",
+        "url": "https://mstdn.social/@Strandjunker/117548682926106960",
+        "badge": "Viral Post",
+        "metric": "❤️ 243 • 🔁 202"
+      },
+      {
+        "category": "social",
+        "source": "Mastodon Viral News",
+        "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+        "description": "ProPublica found that over 500 U.S. citizens have been detained by immigration agents. Forty Democratic lawmakers are no",
+        "url": "https://www.propublica.org/article/american-citizens-ice-detention-congress-impact",
+        "badge": "Shared Link",
+        "metric": "🔥 5 shares"
+      },
+      {
+        "category": "social",
+        "source": "Mastodon Viral News",
+        "title": "Shop freezers in seven European countries hit by cyber-attack",
+        "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+        "badge": "Shared Link",
+        "metric": "🔥 0 shares"
       },
       {
         "category": "social",
@@ -834,104 +852,47 @@
         "description": "Google’s AI summary is punching a huge hole in their own profits – is this good?",
         "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless",
         "badge": "Shared Link",
-        "metric": "🔥 120 shares"
+        "metric": "🔥 0 shares"
       },
       {
         "category": "social",
         "source": "Mastodon Viral News",
-        "title": "Closing Central Madrid To Cars Resulted In 9.5% Boost To Retail Spending, Finds Bank Analysis",
-        "description": "City of Madrid significantly boosted the takings of its shops and restaurants last Christmas by banning cars from the CB",
-        "url": "https://www.forbes.com/sites/carltonreid/2019/03/08/closing-central-madrid-to-cars-resulted-in-9-5-boost-to-retail-spending-finds-bank-analysis/",
-        "badge": "Shared Link",
-        "metric": "🔥 62 shares"
-      },
-      {
-        "category": "social",
-        "source": "Mastodon Viral News",
-        "title": "Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI",
-        "description": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage",
-        "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
-        "badge": "Shared Link",
-        "metric": "🔥 248 shares"
-      },
-      {
-        "category": "social",
-        "source": "Mastodon Viral News",
-        "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-        "description": "Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores",
+        "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+        "description": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French stores",
         "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
         "badge": "Shared Link",
-        "metric": "🔥 67 shares"
+        "metric": "🔥 0 shares"
       },
       {
         "category": "social",
         "source": "Mastodon Viral News",
-        "title": "Her groundbreaking theory on the origin of life was rejected 15 times. Then biology proved her right.",
-        "description": "Lynn Margulis's theory on symbiosis was rejected by fifteen journals before it rewrote how we understand life itself.",
-        "url": "https://www.yahoo.com/news/science/articles/her-groundbreaking-theory-origin-life-224144313.html",
+        "title": "The AI bubble could expose your deepest secrets",
+        "description": "Character.AI's collapse uncovers a little-discussed risk of AI: when tech companies go bankrupt, they can sell your priv",
+        "url": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
         "badge": "Shared Link",
-        "metric": "🔥 68 shares"
+        "metric": "🔥 7 shares"
       },
       {
         "category": "social",
         "source": "Mastodon Viral News",
-        "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-        "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+        "title": "“Chaos” in the Air: Five Ways Voting Could Be Disrupted on Election Day",
+        "description": "The Trump administration has initiated a string of unprecedented actions to assert more federal control over elections. ",
+        "url": "https://www.propublica.org/article/five-voting-disruptions-midterm-election",
         "badge": "Shared Link",
-        "metric": "🔥 74 shares"
+        "metric": "🔥 0 shares"
       }
     ],
     "finance": [
       {
         "category": "finance",
         "source": "CoinGecko Trending",
-        "title": "Super Inu (SI)",
-        "rank": 894,
-        "url": "https://www.coingecko.com/en/coins/super-inu-3",
-        "badge": "Rank #894",
-        "metric": "💎 24h: +1.4% • Sentiment: 37 (Fear)",
-        "fng": {
-          "value": "37",
-          "sentiment": "Fear"
-        }
-      },
-      {
-        "category": "finance",
-        "source": "CoinGecko Trending",
         "title": "AudaCity (DACITYCOIN)",
-        "rank": 827,
+        "rank": 800,
         "url": "https://www.coingecko.com/en/coins/audacity-2",
-        "badge": "Rank #827",
-        "metric": "💎 24h: +53.8% • Sentiment: 37 (Fear)",
+        "badge": "Rank #800",
+        "metric": "💎 24h: +13.5% • Sentiment: 26 (Fear)",
         "fng": {
-          "value": "37",
-          "sentiment": "Fear"
-        }
-      },
-      {
-        "category": "finance",
-        "source": "CoinGecko Trending",
-        "title": "Bitcoin (BTC)",
-        "rank": 1,
-        "url": "https://www.coingecko.com/en/coins/bitcoin",
-        "badge": "Rank #1",
-        "metric": "💎 24h: -0.2% • Sentiment: 37 (Fear)",
-        "fng": {
-          "value": "37",
-          "sentiment": "Fear"
-        }
-      },
-      {
-        "category": "finance",
-        "source": "CoinGecko Trending",
-        "title": "NEAR Protocol (NEAR)",
-        "rank": 21,
-        "url": "https://www.coingecko.com/en/coins/near",
-        "badge": "Rank #21",
-        "metric": "💎 24h: -7.0% • Sentiment: 37 (Fear)",
-        "fng": {
-          "value": "37",
+          "value": "26",
           "sentiment": "Fear"
         }
       },
@@ -939,25 +900,38 @@
         "category": "finance",
         "source": "CoinGecko Trending",
         "title": "Hyperliquid (HYPE)",
-        "rank": 11,
+        "rank": 10,
         "url": "https://www.coingecko.com/en/coins/hyperliquid",
-        "badge": "Rank #11",
-        "metric": "💎 24h: -2.3% • Sentiment: 37 (Fear)",
+        "badge": "Rank #10",
+        "metric": "💎 24h: -3.4% • Sentiment: 26 (Fear)",
         "fng": {
-          "value": "37",
+          "value": "26",
           "sentiment": "Fear"
         }
       },
       {
         "category": "finance",
         "source": "CoinGecko Trending",
-        "title": "Kinetiq (KNTQ)",
-        "rank": 194,
-        "url": "https://www.coingecko.com/en/coins/kinetiq",
-        "badge": "Rank #194",
-        "metric": "💎 24h: -11.7% • Sentiment: 37 (Fear)",
+        "title": "Monad (MON)",
+        "rank": 157,
+        "url": "https://www.coingecko.com/en/coins/monad",
+        "badge": "Rank #157",
+        "metric": "💎 24h: -7.5% • Sentiment: 26 (Fear)",
         "fng": {
-          "value": "37",
+          "value": "26",
+          "sentiment": "Fear"
+        }
+      },
+      {
+        "category": "finance",
+        "source": "CoinGecko Trending",
+        "title": "Quant (QNT)",
+        "rank": 35,
+        "url": "https://www.coingecko.com/en/coins/quant-network",
+        "badge": "Rank #35",
+        "metric": "💎 24h: -2.8% • Sentiment: 26 (Fear)",
+        "fng": {
+          "value": "26",
           "sentiment": "Fear"
         }
       },
@@ -965,25 +939,51 @@
         "category": "finance",
         "source": "CoinGecko Trending",
         "title": "Aerodrome Finance (AERO)",
-        "rank": 105,
+        "rank": 109,
         "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-        "badge": "Rank #105",
-        "metric": "💎 24h: -3.3% • Sentiment: 37 (Fear)",
+        "badge": "Rank #109",
+        "metric": "💎 24h: -2.6% • Sentiment: 26 (Fear)",
         "fng": {
-          "value": "37",
+          "value": "26",
           "sentiment": "Fear"
         }
       },
       {
         "category": "finance",
         "source": "CoinGecko Trending",
-        "title": "Lighter (LIT)",
-        "rank": 83,
-        "url": "https://www.coingecko.com/en/coins/lighter",
-        "badge": "Rank #83",
-        "metric": "💎 24h: -3.6% • Sentiment: 37 (Fear)",
+        "title": "Pudgy Penguins (PENGU)",
+        "rank": 113,
+        "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+        "badge": "Rank #113",
+        "metric": "💎 24h: -2.9% • Sentiment: 26 (Fear)",
         "fng": {
-          "value": "37",
+          "value": "26",
+          "sentiment": "Fear"
+        }
+      },
+      {
+        "category": "finance",
+        "source": "CoinGecko Trending",
+        "title": "Solana (SOL)",
+        "rank": 7,
+        "url": "https://www.coingecko.com/en/coins/solana",
+        "badge": "Rank #7",
+        "metric": "💎 24h: -1.8% • Sentiment: 26 (Fear)",
+        "fng": {
+          "value": "26",
+          "sentiment": "Fear"
+        }
+      },
+      {
+        "category": "finance",
+        "source": "CoinGecko Trending",
+        "title": "Ondo (ONDO)",
+        "rank": 49,
+        "url": "https://www.coingecko.com/en/coins/ondo-finance",
+        "badge": "Rank #49",
+        "metric": "💎 24h: -3.3% • Sentiment: 26 (Fear)",
+        "fng": {
+          "value": "26",
           "sentiment": "Fear"
         }
       }
@@ -992,7 +992,16 @@
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+        "title": "Mahmood scraps settlement plans for migrant care workers",
+        "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+        "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+        "badge": "Breaking News",
+        "metric": "🌐 World Headline"
+      },
+      {
+        "category": "global",
+        "source": "BBC World News",
+        "title": "Shop freezers in seven European countries hit by cyber-attack",
         "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
         "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
@@ -1001,17 +1010,26 @@
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "Mother told to book appointment to give birth to her baby who had died",
-        "description": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
-        "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+        "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+        "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+        "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
         "metric": "🌐 World Headline"
       },
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "Nine killed as small jet crashes on Florida street",
-        "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "badge": "Breaking News",
+        "metric": "🌐 World Headline"
+      },
+      {
+        "category": "global",
+        "source": "BBC World News",
+        "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+        "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
         "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
         "metric": "🌐 World Headline"
@@ -1019,200 +1037,47 @@
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "What Americans are voting for in this election",
-        "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-        "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+        "title": "What Florida jet audio and flight data tells us about its final moments",
+        "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+        "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
         "metric": "🌐 World Headline"
       },
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-        "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+        "title": "Legal challenge to Australia's social media ban to start in High Court",
+        "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+        "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
         "metric": "🌐 World Headline"
       },
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-        "description": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\".",
-        "url": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
+        "title": "Two boys arrested after Halloween party stabbings",
+        "description": "Two teenage boys, both from Southampton, have been arrested on suspicion of attempted murder.",
+        "url": "https://www.bbc.co.uk/news/articles/cked3j229j43o?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
         "metric": "🌐 World Headline"
       },
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "Labour ends power-sharing with Greens in 11 councils over Zionism row",
-        "description": "Labour's ruling National Executive Committee sets out where it is cutting ties with the Greens.",
-        "url": "https://www.bbc.co.uk/news/articles/c63dj21yvjd3o?at_medium=RSS&at_campaign=rss",
+        "title": "MP Carla Lockhart quits DUP in Drumcree row",
+        "description": "Lockhart had called for the DUP to remove First Minister Michelle O'Neill from office.",
+        "url": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
         "metric": "🌐 World Headline"
       },
       {
         "category": "global",
         "source": "BBC World News",
-        "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-        "description": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "title": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+        "description": "Judge William Sullivan said if the case is headed to a retrial, that could happen as soon as March 2027.",
+        "url": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&at_campaign=rss",
         "badge": "Breaking News",
         "metric": "🌐 World Headline"
-      },
-      {
-        "category": "global",
-        "source": "BBC World News",
-        "title": "Nowak family say police failed them multiple times",
-        "description": "The murdered student's family say they feel \"manipulated\" and \"failed\" by Hampshire Police.",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg0x7rd402o?at_medium=RSS&at_campaign=rss",
-        "badge": "Breaking News",
-        "metric": "🌐 World Headline"
-      },
-      {
-        "category": "global",
-        "source": "BBC World News",
-        "title": "Lifestyle guru Martha Stewart says she 'really screwed up' with homeless Halloween costume",
-        "description": "The veteran lifestyle guru has deleted a photo of herself wearing torn clothes and dirt on her face.",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o?at_medium=RSS&at_campaign=rss",
-        "badge": "Breaking News",
-        "metric": "🌐 World Headline"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Haley Stevens",
-        "views": 360148,
-        "url": "https://en.wikipedia.org/wiki/Haley_Stevens",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 360,148 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Patrick Stewart",
-        "views": 205436,
-        "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 205,436 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": ".xxx",
-        "views": 197312,
-        "url": "https://en.wikipedia.org/wiki/.xxx",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 197,312 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Tung Tung Tung Sahur",
-        "views": 192363,
-        "url": "https://en.wikipedia.org/wiki/Tung_Tung_Tung_Sahur",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 192,363 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Nidhi Razdan",
-        "views": 187499,
-        "url": "https://en.wikipedia.org/wiki/Nidhi_Razdan",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 187,499 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Gabby Williams",
-        "views": 180204,
-        "url": "https://en.wikipedia.org/wiki/Gabby_Williams",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 180,204 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Inde Navarrette",
-        "views": 142063,
-        "url": "https://en.wikipedia.org/wiki/Inde_Navarrette",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 142,063 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Heidi Klum",
-        "views": 141812,
-        "url": "https://en.wikipedia.org/wiki/Heidi_Klum",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 141,812 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Ciara Mageean",
-        "views": 138465,
-        "url": "https://en.wikipedia.org/wiki/Ciara_Mageean",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 138,465 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Elizabeth Holmes",
-        "views": 135985,
-        "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 135,985 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Deaths in 2026",
-        "views": 135321,
-        "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 135,321 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Abdul El-Sayed",
-        "views": 134093,
-        "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 134,093 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Jailer 2",
-        "views": 115995,
-        "url": "https://en.wikipedia.org/wiki/Jailer_2",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 115,995 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Ansel Adams",
-        "views": 113390,
-        "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 113,390 views"
-      },
-      {
-        "category": "global",
-        "source": "Wikipedia Top",
-        "title": "Kimi Antonelli",
-        "views": 103995,
-        "url": "https://en.wikipedia.org/wiki/Kimi_Antonelli",
-        "badge": "Knowledge Spike",
-        "metric": "👁️ 103,995 views"
       }
     ]
   },
@@ -1220,7 +1085,17 @@
     {
       "category": "search",
       "source": "Google Trends (US)",
-      "title": "casper ruud",
+      "title": "avalanche vs blackhawks",
+      "traffic": "1000+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "badge": "Search Spike",
+      "metric": "🔥 1000+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (US)",
+      "title": "college basketball scores",
       "traffic": "200+",
       "snippet": "",
       "url": "https://trends.google.com/trending/rss?geo=US",
@@ -1230,7 +1105,7 @@
     {
       "category": "search",
       "source": "Google Trends (US)",
-      "title": "what time does the stock market open",
+      "title": "lsu women's basketball",
       "traffic": "200+",
       "snippet": "",
       "url": "https://trends.google.com/trending/rss?geo=US",
@@ -1240,7 +1115,7 @@
     {
       "category": "search",
       "source": "Google Trends (US)",
-      "title": "diwali 2026",
+      "title": "bucks vs timberwolves",
       "traffic": "5000+",
       "snippet": "",
       "url": "https://trends.google.com/trending/rss?geo=US",
@@ -1250,337 +1125,327 @@
     {
       "category": "search",
       "source": "Google Trends (US)",
-      "title": "today show",
-      "traffic": "200+",
+      "title": "quinnipiac vs mi state",
+      "traffic": "5000+",
       "snippet": "",
       "url": "https://trends.google.com/trending/rss?geo=US",
       "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
+      "metric": "🔥 5000+ searches"
     },
     {
       "category": "search",
       "source": "Google Trends (US)",
-      "title": "ice post release immigrant detentions",
-      "traffic": "1000+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "badge": "Search Spike",
-      "metric": "🔥 1000+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (US)",
-      "title": "tracy morgan",
-      "traffic": "500+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "badge": "Search Spike",
-      "metric": "🔥 500+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (US)",
-      "title": "pagosa springs flooding",
-      "traffic": "500+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "badge": "Search Spike",
-      "metric": "🔥 500+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (US)",
-      "title": "andy richter",
-      "traffic": "200+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (US)",
-      "title": "bill murray",
-      "traffic": "1000+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "badge": "Search Spike",
-      "metric": "🔥 1000+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (US)",
-      "title": "internet invitational",
-      "traffic": "500+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=US",
-      "badge": "Search Spike",
-      "metric": "🔥 500+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "cameron norrie",
-      "traffic": "200+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "bernard gallacher",
-      "traffic": "200+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "eastenders craig ingram amy mitchell plot",
-      "traffic": "200+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "lindsay clancy",
-      "traffic": "200+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "russian su 57 fighter destruction",
-      "traffic": "200+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "taika waititi",
-      "traffic": "500+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "badge": "Search Spike",
-      "metric": "🔥 500+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "manchester evening news",
-      "traffic": "200+",
-      "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
-      "badge": "Search Spike",
-      "metric": "🔥 200+ searches"
-    },
-    {
-      "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "parkinsons film rhys ifans",
+      "title": "kings vs mavericks",
       "traffic": "2000+",
       "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "badge": "Search Spike",
       "metric": "🔥 2000+ searches"
     },
     {
       "category": "search",
-      "source": "Google Trends (GB)",
-      "title": "supermarket cooling systems hacked europe",
+      "source": "Google Trends (US)",
+      "title": "wcu vs unc",
+      "traffic": "5000+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "badge": "Search Spike",
+      "metric": "🔥 5000+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (US)",
+      "title": "pelicans vs grizzlies",
       "traffic": "2000+",
       "snippet": "",
-      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "url": "https://trends.google.com/trending/rss?geo=US",
       "badge": "Search Spike",
       "metric": "🔥 2000+ searches"
     },
     {
       "category": "search",
+      "source": "Google Trends (US)",
+      "title": "new haven vs syracuse",
+      "traffic": "5000+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "badge": "Search Spike",
+      "metric": "🔥 5000+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (US)",
+      "title": "kj britt",
+      "traffic": "500+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=US",
+      "badge": "Search Spike",
+      "metric": "🔥 500+ searches"
+    },
+    {
+      "category": "search",
       "source": "Google Trends (GB)",
-      "title": "navy lookout",
+      "title": "великобритания",
+      "traffic": "100+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 100+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "pokémon go",
+      "traffic": "100+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 100+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "b&m morrisons",
+      "traffic": "1000+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 1000+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "landlord sums tribunal rent study",
+      "traffic": "200+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 200+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "cavaliers vs thunder",
+      "traffic": "200+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 200+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "migrants rescued dutch coast boat",
+      "traffic": "200+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 200+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "government bond",
       "traffic": "500+",
       "snippet": "",
       "url": "https://trends.google.com/trending/rss?geo=GB",
       "badge": "Search Spike",
       "metric": "🔥 500+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "bragantino vs santos",
+      "traffic": "500+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 500+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "arnold schwarzenegger",
+      "traffic": "200+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 200+ searches"
+    },
+    {
+      "category": "search",
+      "source": "Google Trends (GB)",
+      "title": "line of duty season 7",
+      "traffic": "2000+",
+      "snippet": "",
+      "url": "https://trends.google.com/trending/rss?geo=GB",
+      "badge": "Search Spike",
+      "metric": "🔥 2000+ searches"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "author": "karpathy",
-      "points": 2716,
-      "comments": 601,
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "title": "Astra can read and write weights to improve Qwen",
+      "author": "dbreunig",
+      "points": 1768,
+      "comments": 560,
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
       "badge": "Front Page",
-      "metric": "▲ 2,716 pts • 💬 601 comments"
+      "metric": "▲ 1,768 pts • 💬 560 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "author": "roansh",
-      "points": 1656,
+      "title": "WTF Ubuntu?",
+      "author": "chalmovsky",
+      "points": 1280,
+      "comments": 575,
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "badge": "Front Page",
+      "metric": "▲ 1,280 pts • 💬 575 comments"
+    },
+    {
+      "category": "tech",
+      "source": "Hacker News",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "author": "aarushyadav",
+      "points": 510,
       "comments": 274,
-      "url": "https://hackerbooks.org",
+      "url": "https://news.ycombinator.com/item?id=50340088",
       "badge": "Front Page",
-      "metric": "▲ 1,656 pts • 💬 274 comments"
+      "metric": "▲ 510 pts • 💬 274 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "author": "soheilpro",
-      "points": 651,
-      "comments": 397,
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "badge": "Front Page",
-      "metric": "▲ 651 pts • 💬 397 comments"
-    },
-    {
-      "category": "tech",
-      "source": "Hacker News",
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "author": "LecroJS",
-      "points": 536,
-      "comments": 644,
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "badge": "Front Page",
-      "metric": "▲ 536 pts • 💬 644 comments"
-    },
-    {
-      "category": "tech",
-      "source": "Hacker News",
-      "title": "The AI cost of JavaScript frameworks",
-      "author": "luu",
-      "points": 415,
-      "comments": 322,
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "badge": "Front Page",
-      "metric": "▲ 415 pts • 💬 322 comments"
-    },
-    {
-      "category": "tech",
-      "source": "Hacker News",
-      "title": "OccupySaaS",
-      "author": "misswaterfairy",
-      "points": 399,
-      "comments": 249,
-      "url": "https://occupysaas.com/",
-      "badge": "Front Page",
-      "metric": "▲ 399 pts • 💬 249 comments"
-    },
-    {
-      "category": "tech",
-      "source": "Hacker News",
-      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
-      "author": "aizk",
-      "points": 314,
+      "title": "If you love a website, back it up",
+      "author": "ingve",
+      "points": 373,
       "comments": 92,
-      "url": "https://wikihack.netlify.app",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
       "badge": "Front Page",
-      "metric": "▲ 314 pts • 💬 92 comments"
+      "metric": "▲ 373 pts • 💬 92 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "author": "FabCH",
-      "points": 279,
-      "comments": 84,
-      "url": "https://github.com/ivankovic/omnidiff",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "author": "majorchord",
+      "points": 289,
+      "comments": 58,
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
       "badge": "Front Page",
-      "metric": "▲ 279 pts • 💬 84 comments"
+      "metric": "▲ 289 pts • 💬 58 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Show HN: Point your camera at a landscape to learn about its geology",
-      "author": "headsupernova",
-      "points": 232,
+      "title": "US boy names that became girl names and vice versa",
+      "author": "xoobdev",
+      "points": 266,
+      "comments": 294,
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "badge": "Front Page",
+      "metric": "▲ 266 pts • 💬 294 comments"
+    },
+    {
+      "category": "tech",
+      "source": "Hacker News",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "author": "guitmz",
+      "points": 204,
       "comments": 48,
-      "url": "https://outcrop.rocks/",
+      "url": "https://syscall.sh/",
       "badge": "Front Page",
-      "metric": "▲ 232 pts • 💬 48 comments"
+      "metric": "▲ 204 pts • 💬 48 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "author": "_Microft",
-      "points": 198,
-      "comments": 88,
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "author": "stared",
+      "points": 200,
+      "comments": 35,
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
       "badge": "Front Page",
-      "metric": "▲ 198 pts • 💬 88 comments"
+      "metric": "▲ 200 pts • 💬 35 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Radiation Map of the World",
-      "author": "slater",
-      "points": 196,
-      "comments": 54,
-      "url": "https://radiaverse.com/",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "author": "whoishiring",
+      "points": 167,
+      "comments": 137,
+      "url": "https://news.ycombinator.com/item?id=50338728",
       "badge": "Front Page",
-      "metric": "▲ 196 pts • 💬 54 comments"
+      "metric": "▲ 167 pts • 💬 137 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "author": "EA-3167",
-      "points": 193,
-      "comments": 67,
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "title": "Moving our warehouse off DuckDB",
+      "author": "emschwartz",
+      "points": 154,
+      "comments": 106,
+      "url": "https://posthog.com/blog/moving-off-duckdb",
       "badge": "Front Page",
-      "metric": "▲ 193 pts • 💬 67 comments"
+      "metric": "▲ 154 pts • 💬 106 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "author": "bogdanoff_2",
-      "points": 186,
-      "comments": 104,
-      "url": "https://tibleiz.net/copper/",
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "author": "smartmic",
+      "points": 143,
+      "comments": 102,
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
       "badge": "Front Page",
-      "metric": "▲ 186 pts • 💬 104 comments"
+      "metric": "▲ 143 pts • 💬 102 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "One-minute frequency disturbances from synchronization in power systems",
-      "author": "croes",
-      "points": 174,
-      "comments": 57,
-      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "author": "wondersky",
+      "points": 133,
+      "comments": 44,
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
       "badge": "Front Page",
-      "metric": "▲ 174 pts • 💬 57 comments"
+      "metric": "▲ 133 pts • 💬 44 comments"
     },
     {
       "category": "tech",
       "source": "Hacker News",
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "author": "joonehur",
-      "points": 169,
-      "comments": 22,
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "title": "Anthropic's growth just flattened",
+      "author": "cdrnsf",
+      "points": 131,
+      "comments": 154,
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
       "badge": "Front Page",
-      "metric": "▲ 169 pts • 💬 22 comments"
+      "metric": "▲ 131 pts • 💬 154 comments"
+    },
+    {
+      "category": "tech",
+      "source": "Hacker News",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "author": "cdrnsf",
+      "points": 123,
+      "comments": 68,
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "badge": "Front Page",
+      "metric": "▲ 123 pts • 💬 68 comments"
+    },
+    {
+      "category": "tech",
+      "source": "Hacker News",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "author": "wuweiweiwu",
+      "points": 115,
+      "comments": 75,
+      "url": "https://momentic.ai/",
+      "badge": "Front Page",
+      "metric": "▲ 115 pts • 💬 75 comments"
     },
     {
       "category": "dev",
@@ -1590,7 +1455,7 @@
       "language": "Rust",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "badge": "Rust",
-      "metric": "⭐ +2,243 today"
+      "metric": "⭐ +2,275 today"
     },
     {
       "category": "dev",
@@ -1600,7 +1465,7 @@
       "language": "C++",
       "url": "https://github.com/hyprwm/Hyprland",
       "badge": "C++",
-      "metric": "⭐ +508 today"
+      "metric": "⭐ +509 today"
     },
     {
       "category": "dev",
@@ -1610,7 +1475,7 @@
       "language": "Python",
       "url": "https://github.com/FlashML-org/FreeToken",
       "badge": "Python",
-      "metric": "⭐ +654 today"
+      "metric": "⭐ +653 today"
     },
     {
       "category": "dev",
@@ -1620,7 +1485,7 @@
       "language": "TypeScript",
       "url": "https://github.com/pingdotgg/t3code",
       "badge": "TypeScript",
-      "metric": "⭐ +3,216 today"
+      "metric": "⭐ +3,229 today"
     },
     {
       "category": "dev",
@@ -1630,7 +1495,7 @@
       "language": "Python",
       "url": "https://github.com/shiyu-coder/Kronos",
       "badge": "Python",
-      "metric": "⭐ +855 today"
+      "metric": "⭐ +857 today"
     },
     {
       "category": "dev",
@@ -1640,7 +1505,7 @@
       "language": "C",
       "url": "https://github.com/JustVugg/colibri",
       "badge": "C",
-      "metric": "⭐ +655 today"
+      "metric": "⭐ +675 today"
     },
     {
       "category": "dev",
@@ -1650,16 +1515,7 @@
       "language": "Rust",
       "url": "https://github.com/max-sixty/worktrunk",
       "badge": "Rust",
-      "metric": "⭐ +115 today"
-    },
-    {
-      "category": "ai",
-      "source": "Hugging Face",
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "description": "Trending AI Foundation Model (image-text-to-text)",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "badge": "image-text-to-text",
-      "metric": "❤️ 4,613 likes • 📥 177,009 dls"
+      "metric": "⭐ +77 today"
     },
     {
       "category": "ai",
@@ -1668,7 +1524,16 @@
       "description": "Trending AI Foundation Model (text-generation)",
       "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
       "badge": "text-generation",
-      "metric": "❤️ 782 likes • 📥 42,384 dls"
+      "metric": "❤️ 999 likes • 📥 42,384 dls"
+    },
+    {
+      "category": "ai",
+      "source": "Hugging Face",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "description": "Trending AI Foundation Model (image-text-to-text)",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "badge": "image-text-to-text",
+      "metric": "❤️ 4,696 likes • 📥 177,009 dls"
     },
     {
       "category": "ai",
@@ -1677,7 +1542,7 @@
       "description": "Trending AI Foundation Model (automatic-speech-recognition)",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
       "badge": "automatic-speech-recognition",
-      "metric": "❤️ 649 likes • 📥 32,439 dls"
+      "metric": "❤️ 681 likes • 📥 32,439 dls"
     },
     {
       "category": "ai",
@@ -1686,7 +1551,7 @@
       "description": "Trending AI Foundation Model (image-text-to-text)",
       "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
       "badge": "image-text-to-text",
-      "metric": "❤️ 1,477 likes • 📥 5,500 dls"
+      "metric": "❤️ 1,500 likes • 📥 5,500 dls"
     },
     {
       "category": "ai",
@@ -1695,25 +1560,7 @@
       "description": "Trending AI Foundation Model (image-text-to-text)",
       "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
       "badge": "image-text-to-text",
-      "metric": "❤️ 550 likes • 📥 147,588 dls"
-    },
-    {
-      "category": "ai",
-      "source": "Hugging Face",
-      "title": "Lightricks/LTX-2.5",
-      "description": "Trending AI Foundation Model (image-to-video)",
-      "url": "https://huggingface.co/Lightricks/LTX-2.5",
-      "badge": "image-to-video",
-      "metric": "❤️ 10,306 likes • 📥 2,467,613 dls"
-    },
-    {
-      "category": "ai",
-      "source": "Hugging Face",
-      "title": "ccore/Qwen3.5-4B-3D-Coder",
-      "description": "Trending AI Foundation Model (AI Model)",
-      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-      "badge": "AI Model",
-      "metric": "❤️ 530 likes • 📥 63,499 dls"
+      "metric": "❤️ 561 likes • 📥 147,588 dls"
     },
     {
       "category": "ai",
@@ -1722,7 +1569,25 @@
       "description": "Trending AI Foundation Model (image-to-3d)",
       "url": "https://huggingface.co/speridlabs/idol",
       "badge": "image-to-3d",
-      "metric": "❤️ 373 likes • 📥 7,787 dls"
+      "metric": "❤️ 415 likes • 📥 7,787 dls"
+    },
+    {
+      "category": "ai",
+      "source": "Hugging Face",
+      "title": "Lightricks/LTX-2.5",
+      "description": "Trending AI Foundation Model (image-to-video)",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "badge": "image-to-video",
+      "metric": "❤️ 10,360 likes • 📥 2,467,613 dls"
+    },
+    {
+      "category": "ai",
+      "source": "Hugging Face",
+      "title": "ccore/Qwen3.5-4B-3D-Coder",
+      "description": "Trending AI Foundation Model (AI Model)",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+      "badge": "AI Model",
+      "metric": "❤️ 560 likes • 📥 63,499 dls"
     },
     {
       "category": "ai",
@@ -1731,16 +1596,7 @@
       "description": "Trending AI Foundation Model (image-to-video)",
       "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
       "badge": "image-to-video",
-      "metric": "❤️ 341 likes • 📥 491 dls"
-    },
-    {
-      "category": "ai",
-      "source": "Hugging Face",
-      "title": "Nanbeige/Nanbeige4.3-33B",
-      "description": "Trending AI Foundation Model (text-generation)",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-      "badge": "text-generation",
-      "metric": "❤️ 997 likes • 📥 16,976 dls"
+      "metric": "❤️ 359 likes • 📥 491 dls"
     },
     {
       "category": "ai",
@@ -1749,7 +1605,7 @@
       "description": "Trending AI Foundation Model (image-text-to-text)",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "badge": "image-text-to-text",
-      "metric": "❤️ 18,977 likes • 📥 7,915,637 dls"
+      "metric": "❤️ 19,013 likes • 📥 7,915,637 dls"
     },
     {
       "category": "ai",
@@ -1758,7 +1614,16 @@
       "description": "Trending AI Foundation Model (text-to-image)",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "badge": "text-to-image",
-      "metric": "❤️ 5,521 likes • 📥 2,516,622 dls"
+      "metric": "❤️ 5,549 likes • 📥 2,516,622 dls"
+    },
+    {
+      "category": "ai",
+      "source": "Hugging Face",
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "description": "Trending AI Foundation Model (image-to-image)",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "badge": "image-to-image",
+      "metric": "❤️ 2,354 likes • 📥 1,003,813 dls"
     },
     {
       "category": "ai",
@@ -1843,52 +1708,13 @@
     {
       "category": "finance",
       "source": "CoinGecko Trending",
-      "title": "Super Inu (SI)",
-      "rank": 894,
-      "url": "https://www.coingecko.com/en/coins/super-inu-3",
-      "badge": "Rank #894",
-      "metric": "💎 24h: +1.4% • Sentiment: 37 (Fear)",
-      "fng": {
-        "value": "37",
-        "sentiment": "Fear"
-      }
-    },
-    {
-      "category": "finance",
-      "source": "CoinGecko Trending",
       "title": "AudaCity (DACITYCOIN)",
-      "rank": 827,
+      "rank": 800,
       "url": "https://www.coingecko.com/en/coins/audacity-2",
-      "badge": "Rank #827",
-      "metric": "💎 24h: +53.8% • Sentiment: 37 (Fear)",
+      "badge": "Rank #800",
+      "metric": "💎 24h: +13.5% • Sentiment: 26 (Fear)",
       "fng": {
-        "value": "37",
-        "sentiment": "Fear"
-      }
-    },
-    {
-      "category": "finance",
-      "source": "CoinGecko Trending",
-      "title": "Bitcoin (BTC)",
-      "rank": 1,
-      "url": "https://www.coingecko.com/en/coins/bitcoin",
-      "badge": "Rank #1",
-      "metric": "💎 24h: -0.2% • Sentiment: 37 (Fear)",
-      "fng": {
-        "value": "37",
-        "sentiment": "Fear"
-      }
-    },
-    {
-      "category": "finance",
-      "source": "CoinGecko Trending",
-      "title": "NEAR Protocol (NEAR)",
-      "rank": 21,
-      "url": "https://www.coingecko.com/en/coins/near",
-      "badge": "Rank #21",
-      "metric": "💎 24h: -7.0% • Sentiment: 37 (Fear)",
-      "fng": {
-        "value": "37",
+        "value": "26",
         "sentiment": "Fear"
       }
     },
@@ -1896,25 +1722,38 @@
       "category": "finance",
       "source": "CoinGecko Trending",
       "title": "Hyperliquid (HYPE)",
-      "rank": 11,
+      "rank": 10,
       "url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "badge": "Rank #11",
-      "metric": "💎 24h: -2.3% • Sentiment: 37 (Fear)",
+      "badge": "Rank #10",
+      "metric": "💎 24h: -3.4% • Sentiment: 26 (Fear)",
       "fng": {
-        "value": "37",
+        "value": "26",
         "sentiment": "Fear"
       }
     },
     {
       "category": "finance",
       "source": "CoinGecko Trending",
-      "title": "Kinetiq (KNTQ)",
-      "rank": 194,
-      "url": "https://www.coingecko.com/en/coins/kinetiq",
-      "badge": "Rank #194",
-      "metric": "💎 24h: -11.7% • Sentiment: 37 (Fear)",
+      "title": "Monad (MON)",
+      "rank": 157,
+      "url": "https://www.coingecko.com/en/coins/monad",
+      "badge": "Rank #157",
+      "metric": "💎 24h: -7.5% • Sentiment: 26 (Fear)",
       "fng": {
-        "value": "37",
+        "value": "26",
+        "sentiment": "Fear"
+      }
+    },
+    {
+      "category": "finance",
+      "source": "CoinGecko Trending",
+      "title": "Quant (QNT)",
+      "rank": 35,
+      "url": "https://www.coingecko.com/en/coins/quant-network",
+      "badge": "Rank #35",
+      "metric": "💎 24h: -2.8% • Sentiment: 26 (Fear)",
+      "fng": {
+        "value": "26",
         "sentiment": "Fear"
       }
     },
@@ -1922,99 +1761,143 @@
       "category": "finance",
       "source": "CoinGecko Trending",
       "title": "Aerodrome Finance (AERO)",
-      "rank": 105,
+      "rank": 109,
       "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "badge": "Rank #105",
-      "metric": "💎 24h: -3.3% • Sentiment: 37 (Fear)",
+      "badge": "Rank #109",
+      "metric": "💎 24h: -2.6% • Sentiment: 26 (Fear)",
       "fng": {
-        "value": "37",
+        "value": "26",
         "sentiment": "Fear"
       }
     },
     {
       "category": "finance",
       "source": "CoinGecko Trending",
-      "title": "Lighter (LIT)",
-      "rank": 83,
-      "url": "https://www.coingecko.com/en/coins/lighter",
-      "badge": "Rank #83",
-      "metric": "💎 24h: -3.6% • Sentiment: 37 (Fear)",
+      "title": "Pudgy Penguins (PENGU)",
+      "rank": 113,
+      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
+      "badge": "Rank #113",
+      "metric": "💎 24h: -2.9% • Sentiment: 26 (Fear)",
       "fng": {
-        "value": "37",
+        "value": "26",
+        "sentiment": "Fear"
+      }
+    },
+    {
+      "category": "finance",
+      "source": "CoinGecko Trending",
+      "title": "Solana (SOL)",
+      "rank": 7,
+      "url": "https://www.coingecko.com/en/coins/solana",
+      "badge": "Rank #7",
+      "metric": "💎 24h: -1.8% • Sentiment: 26 (Fear)",
+      "fng": {
+        "value": "26",
+        "sentiment": "Fear"
+      }
+    },
+    {
+      "category": "finance",
+      "source": "CoinGecko Trending",
+      "title": "Ondo (ONDO)",
+      "rank": 49,
+      "url": "https://www.coingecko.com/en/coins/ondo-finance",
+      "badge": "Rank #49",
+      "metric": "💎 24h: -3.3% • Sentiment: 26 (Fear)",
+      "fng": {
+        "value": "26",
         "sentiment": "Fear"
       }
     },
     {
       "category": "social",
       "source": "Fediverse / Mastodon",
-      "title": "It has been 247 days since the Trump administration bombed a primary school in southern Iran, killing 156 civilians, including 120 schoolchi...",
-      "author": "@randahl",
-      "url": "https://mastodon.social/@randahl/117546681572313421",
+      "title": "Sitting in on a meeting of radio astronomers and learning that the FCC is gradually auctioning off the radio frequency bands we need for wea...",
+      "author": "@sundogplanets",
+      "url": "https://mastodon.social/@sundogplanets/117548478464801180",
       "badge": "Viral Post",
-      "metric": "❤️ 66 • 🔁 85"
+      "metric": "❤️ 261 • 🔁 288"
     },
     {
       "category": "social",
       "source": "Fediverse / Mastodon",
-      "title": "Tomorrow morning I’ll sign in for my 16 hr shift as a NYS election inspector. I’ll boot up the machines.I’ll provide voters w the correct ba...",
-      "author": "@xankarn",
-      "url": "https://mastodon.online/@xankarn/117546714147097661",
-      "badge": "Viral Post",
-      "metric": "❤️ 143 • 🔁 98"
-    },
-    {
-      "category": "social",
-      "source": "Fediverse / Mastodon",
-      "title": "Google Chrome no longer supports uBlock Origin - but you don&#39;t have to depend on such intrusive tech!There are excellent alternative bro...",
-      "author": "@Tutanota",
-      "url": "https://mastodon.social/@Tutanota/117546498276278936",
-      "badge": "Viral Post",
-      "metric": "❤️ 86 • 🔁 75"
-    },
-    {
-      "category": "social",
-      "source": "Fediverse / Mastodon",
-      "title": "‘Prompt This!’Acrylic on canvas - 2025#art #painting #HumanMade #NoAI",
-      "author": "@leemadgwick",
-      "url": "https://mastodonapp.uk/@leemadgwick/117546071661953732",
-      "badge": "Viral Post",
-      "metric": "❤️ 338 • 🔁 182"
-    },
-    {
-      "category": "social",
-      "source": "Fediverse / Mastodon",
-      "title": "In Poland, Romania and Germany, the Trump administration is openly supporting pro-Russian and anti-EU parties, some opposed to defense spend...",
-      "author": "@anneapplebaum",
-      "url": "https://journa.host/@anneapplebaum/117546065743824625",
-      "badge": "Viral Post",
-      "metric": "❤️ 165 • 🔁 214"
-    },
-    {
-      "category": "social",
-      "source": "Fediverse / Mastodon",
-      "title": "#meme #humour",
-      "author": "@cmconseils",
-      "url": "https://mastodon.social/@cmconseils/117546508234432497",
-      "badge": "Viral Post",
-      "metric": "❤️ 86 • 🔁 46"
-    },
-    {
-      "category": "social",
-      "source": "Fediverse / Mastodon",
-      "title": "Out for a proper walk for the first time in ages. The Doethie valley looking beautiful in its autumn colours.Couldn’t identify a bird call a...",
-      "author": "@helenclayton",
-      "url": "https://mas.to/@helenclayton/117546747289238815",
-      "badge": "Viral Post",
-      "metric": "❤️ 108 • 🔁 72"
-    },
-    {
-      "category": "social",
-      "source": "Fediverse / Mastodon",
-      "title": "I use 256GB to color in paint, screw you Altman",
+      "title": "Oof, I laughed a little too hard",
       "author": "@stux",
-      "url": "https://mstdn.social/@stux/117547115489035544",
+      "url": "https://mstdn.social/@stux/117549186520286585",
       "badge": "Viral Post",
-      "metric": "❤️ 69 • 🔁 40"
+      "metric": "❤️ 203 • 🔁 145"
+    },
+    {
+      "category": "social",
+      "source": "Fediverse / Mastodon",
+      "title": "Glad to see this reporting from the BBC: when the AI bubble bursts, companies that have gone bust will sell your data. https://www.bbc.com/f...",
+      "author": "@gvwilson",
+      "url": "https://mastodon.social/@gvwilson/117548893802339920",
+      "badge": "Viral Post",
+      "metric": "❤️ 83 • 🔁 169"
+    },
+    {
+      "category": "social",
+      "source": "Fediverse / Mastodon",
+      "title": "I was laid off today. First time I've dealt with something like this. Not much else to say at this stage.If anyone has meteorology work of a...",
+      "author": "@ingalls",
+      "url": "https://m.ai6yr.org/@ingalls/117549384446293510",
+      "badge": "Viral Post",
+      "metric": "❤️ 19 • 🔁 117"
+    },
+    {
+      "category": "social",
+      "source": "Fediverse / Mastodon",
+      "title": "Reddit is now login-onlyRIP Reddit",
+      "author": "@campuscodi",
+      "url": "https://mastodon.social/@campuscodi/117549159852365004",
+      "badge": "Viral Post",
+      "metric": "❤️ 99 • 🔁 60"
+    },
+    {
+      "category": "social",
+      "source": "Fediverse / Mastodon",
+      "title": "I just found out about #Kiln Share—an app that allows you to find people in your area who will let you fire #ceramics in their kiln at low c...",
+      "author": "@potterybyosa",
+      "url": "https://mastodon.social/@potterybyosa/117548749239610782",
+      "badge": "Viral Post",
+      "metric": "❤️ 140 • 🔁 127"
+    },
+    {
+      "category": "social",
+      "source": "Fediverse / Mastodon",
+      "title": "Hot Skeletons in your Area, Pt.IV",
+      "author": "@kimhu",
+      "url": "https://mastodon.social/@kimhu/117549200050475259",
+      "badge": "Viral Post",
+      "metric": "❤️ 94 • 🔁 44"
+    },
+    {
+      "category": "social",
+      "source": "Fediverse / Mastodon",
+      "title": "Dear American citizens, whatever you wish more German citizens would have done in 1933, do that now.",
+      "author": "@Strandjunker",
+      "url": "https://mstdn.social/@Strandjunker/117548682926106960",
+      "badge": "Viral Post",
+      "metric": "❤️ 243 • 🔁 202"
+    },
+    {
+      "category": "social",
+      "source": "Mastodon Viral News",
+      "title": "After ProPublica Investigation, House Democrats Demand Answers on U.S. Citizens Detained by Immigration Agents",
+      "description": "ProPublica found that over 500 U.S. citizens have been detained by immigration agents. Forty Democratic lawmakers are no",
+      "url": "https://www.propublica.org/article/american-citizens-ice-detention-congress-impact",
+      "badge": "Shared Link",
+      "metric": "🔥 5 shares"
+    },
+    {
+      "category": "social",
+      "source": "Mastodon Viral News",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+      "badge": "Shared Link",
+      "metric": "🔥 0 shares"
     },
     {
       "category": "social",
@@ -2023,147 +1906,138 @@
       "description": "Google’s AI summary is punching a huge hole in their own profits – is this good?",
       "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless",
       "badge": "Shared Link",
-      "metric": "🔥 120 shares"
+      "metric": "🔥 0 shares"
     },
     {
       "category": "social",
       "source": "Mastodon Viral News",
-      "title": "Closing Central Madrid To Cars Resulted In 9.5% Boost To Retail Spending, Finds Bank Analysis",
-      "description": "City of Madrid significantly boosted the takings of its shops and restaurants last Christmas by banning cars from the CB",
-      "url": "https://www.forbes.com/sites/carltonreid/2019/03/08/closing-central-madrid-to-cars-resulted-in-9-5-boost-to-retail-spending-finds-bank-analysis/",
-      "badge": "Shared Link",
-      "metric": "🔥 62 shares"
-    },
-    {
-      "category": "social",
-      "source": "Mastodon Viral News",
-      "title": "Parents of woman who died of seizure after ChaGPT misguidance sue OpenAI",
-      "description": "Bowen Wan was on anti-seizure medication, and chatbot provided her with a tapering schedule to reduce dosage",
-      "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
-      "badge": "Shared Link",
-      "metric": "🔥 248 shares"
-    },
-    {
-      "category": "social",
-      "source": "Mastodon Viral News",
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "description": "Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores",
+      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+      "description": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French stores",
       "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
       "badge": "Shared Link",
-      "metric": "🔥 67 shares"
+      "metric": "🔥 0 shares"
     },
     {
       "category": "social",
       "source": "Mastodon Viral News",
-      "title": "Her groundbreaking theory on the origin of life was rejected 15 times. Then biology proved her right.",
-      "description": "Lynn Margulis's theory on symbiosis was rejected by fifteen journals before it rewrote how we understand life itself.",
-      "url": "https://www.yahoo.com/news/science/articles/her-groundbreaking-theory-origin-life-224144313.html",
+      "title": "The AI bubble could expose your deepest secrets",
+      "description": "Character.AI's collapse uncovers a little-discussed risk of AI: when tech companies go bankrupt, they can sell your priv",
+      "url": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
       "badge": "Shared Link",
-      "metric": "🔥 68 shares"
+      "metric": "🔥 7 shares"
     },
     {
       "category": "social",
       "source": "Mastodon Viral News",
-      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-      "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo",
+      "title": "“Chaos” in the Air: Five Ways Voting Could Be Disrupted on Election Day",
+      "description": "The Trump administration has initiated a string of unprecedented actions to assert more federal control over elections. ",
+      "url": "https://www.propublica.org/article/five-voting-disruptions-midterm-election",
       "badge": "Shared Link",
-      "metric": "🔥 74 shares"
+      "metric": "🔥 0 shares"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Memo: Alphabet is issuing €6B in euro-denominated debt across seven tranches, attracting €17B+ of demand; the company sold €9B of bonds earlier in 2026 (Reuters)",
-      "description": "Reuters:\nMemo: Alphabet is issuing &euro;6B in euro-denominated debt across seven tranches, attracting &euro;17B+ of demand; the c...",
-      "url": "https://www.techmeme.com/261102/p22#a261102p22",
+      "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
+      "description": "Marina Temkin / TechCrunch:\nTrajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M...",
+      "url": "https://www.techmeme.com/261102/p45#a261102p45",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before a wider release; Codex remains a separate experience (Ivan Mehta/TechCrunch)",
-      "description": "Ivan Mehta / TechCrunch:\nEmail: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop, rolling out to select users before ...",
-      "url": "https://www.techmeme.com/261102/p21#a261102p21",
+      "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
+      "description": "Julie Bort / TechCrunch:\nAnthropic S-1 claims it may &ldquo;imminently meet&rdquo; its RSI threshold and may fail to identify &ldq...",
+      "url": "https://www.techmeme.com/261102/p44#a261102p44",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits (Siladitya Ray/Forbes)",
-      "description": "Siladitya Ray / Forbes:\nElon Musk says the cost of serving Grok Bot was &ldquo;unsustainably high relative to revenue&rdquo;, in r...",
-      "url": "https://www.techmeme.com/261102/p20#a261102p20",
+      "title": "Brazil's largest crypto exchange Mercado Bitcoin halts withdrawals after a breach involving $46M+ in assets, per Arkham; Tether froze 4.5M+ USDT in response (Jason Shubnell/The Block)",
+      "description": "Jason Shubnell / The Block:\nBrazil's largest crypto exchange Mercado Bitcoin halts withdrawals after a breach involving $46M+ in a...",
+      "url": "https://www.techmeme.com/261102/p43#a261102p43",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "A look at AI safety debates and the rising popularity of \"Stop Unilaterally + Raise Awareness\", or SURA; safety-focused AI labs shouldn't abandon the AI race (Scott Alexander/LessWrong)",
-      "description": "Scott Alexander / LessWrong:\nA look at AI safety debates and the rising popularity of &ldquo;Stop Unilaterally + Raise Awareness&r...",
-      "url": "https://www.techmeme.com/261102/p19#a261102p19",
+      "title": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
+      "description": "Wall Street Journal:\nSources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down ...",
+      "url": "https://www.techmeme.com/261102/p42#a261102p42",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Analysis: Elon Musk contributed a record $474M to political groups for the 2026 midterms, including $216M to America PAC, the highest non-candidate spend ever (Theodore Schleifer/New York Times)",
-      "description": "Theodore Schleifer / New York Times:\nAnalysis: Elon Musk contributed a record $474M to political groups for the 2026 midterms, inc...",
-      "url": "https://www.techmeme.com/261102/p18#a261102p18",
+      "title": "Apple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and more, grew 10% YoY to $31.57B, vs. $31.58B est. (Loree Seitz/The Wrap)",
+      "description": "Loree Seitz / The Wrap:\nApple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and m...",
+      "url": "https://www.techmeme.com/261102/p41#a261102p41",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Hirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorship and harden security for Western companies (Rest of World)",
-      "description": "Rest of World:\nHirundo, Lazarus, and others are applying machine unlearning and weight edits to Chinese models to remove censorshi...",
-      "url": "https://www.techmeme.com/261102/p17#a261102p17",
+      "title": "Apple Q4: iPhone up 17% YoY to $57.58B, vs. $56.54B est., Mac up 24% to $10.8B, iPad down 10% to $6.2B, and Wearables, Home, and Accessories down 8% to $8.3B (Marcus Mendes/9to5Mac)",
+      "description": "Marcus Mendes / 9to5Mac:\nApple Q4: iPhone up 17% YoY to $57.58B, vs. $56.54B est., Mac up 24% to $10.8B, iPad down 10% to $6.2B, a...",
+      "url": "https://www.techmeme.com/261102/p40#a261102p40",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Marvell's $115B Lumentum acquisition is one of the biggest tech deals ever and 2026's top M&A deal; Lumentum is up 128% YTD, giving it a ~$76B market cap (Bloomberg)",
-      "description": "Bloomberg:\nMarvell's $115B Lumentum acquisition is one of the biggest tech deals ever and 2026's top M&amp;A deal; Lumentum is up ...",
-      "url": "https://www.techmeme.com/261102/p16#a261102p16",
+      "title": "Apple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in John Ternus' first earnings report (Apple)",
+      "description": "Apple:\nApple reports Q4 revenue up 12% YoY to $114.48B, vs. $113.39B est., China revenue up 21% to $17.5B, vs. $18.9B est., in Joh...",
+      "url": "https://www.techmeme.com/261102/p39#a261102p39",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Sources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile, and AT&T rebuffed requests for network access (Washington Post)",
-      "description": "Washington Post:\nSources: SpaceX is in talks with EchoStar to acquire Boost Mobile or access its network, after Verizon, T-Mobile,...",
-      "url": "https://www.techmeme.com/261102/p15#a261102p15",
+      "title": "Palantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% YoY to $984M, and raises FY 2026 revenue guidance to ~$8.53B (Samantha Subin/CNBC)",
+      "description": "Samantha Subin / CNBC:\nPalantir reports Q3 revenue up 96% YoY to $2.31B, above $2.18B est., US commercial revenue up 148% YoY to $...",
+      "url": "https://www.techmeme.com/261102/p38#a261102p38",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026 (Anhata Rooprai/Reuters)",
-      "description": "Anhata Rooprai / Reuters:\nMarvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to riv...",
-      "url": "https://www.techmeme.com/261102/p14#a261102p14",
+      "title": "Roku Q3: revenue up 24% YoY to $1.5B, Platform revenue up 23% YoY to $1.3B, ad revenue up 23% YoY to $727.4M, and subscriptions revenue up 23% YoY to $580.9M (Todd Spangler/Variety)",
+      "description": "Todd Spangler / Variety:\nRoku Q3: revenue up 24% YoY to $1.5B, Platform revenue up 23% YoY to $1.3B, ad revenue up 23% YoY to $727...",
+      "url": "https://www.techmeme.com/261102/p37#a261102p37",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "tech",
       "source": "Techmeme",
-      "title": "Supermarkets in Belgium, Ireland, Sweden, Finland, and Estonia report fridge and freezer temperature spikes due to suspected hacks, echoing attacks in France (Bloomberg)",
-      "description": "Bloomberg:\nSupermarkets in Belgium, Ireland, Sweden, Finland, and Estonia report fridge and freezer temperature spikes due to susp...",
-      "url": "https://www.techmeme.com/261102/p13#a261102p13",
+      "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+      "description": "Rikiya Takehi:\nResearchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5...",
+      "url": "https://www.techmeme.com/261102/p36#a261102p36",
       "badge": "Curated Tech",
       "metric": "⚡ Top Industry Story"
     },
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+      "title": "Mahmood scraps settlement plans for migrant care workers",
+      "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+      "badge": "Breaking News",
+      "metric": "🌐 World Headline"
+    },
+    {
+      "category": "global",
+      "source": "BBC World News",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
       "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
       "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
@@ -2172,17 +2046,26 @@
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "Mother told to book appointment to give birth to her baby who had died",
-      "description": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+      "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+      "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+      "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
       "metric": "🌐 World Headline"
     },
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "Nine killed as small jet crashes on Florida street",
-      "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "badge": "Breaking News",
+      "metric": "🌐 World Headline"
+    },
+    {
+      "category": "global",
+      "source": "BBC World News",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
       "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
       "metric": "🌐 World Headline"
@@ -2190,200 +2073,47 @@
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "What Americans are voting for in this election",
-      "description": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "description": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
       "metric": "🌐 World Headline"
     },
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
       "metric": "🌐 World Headline"
     },
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-      "description": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\".",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
+      "title": "Two boys arrested after Halloween party stabbings",
+      "description": "Two teenage boys, both from Southampton, have been arrested on suspicion of attempted murder.",
+      "url": "https://www.bbc.co.uk/news/articles/cked3j229j43o?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
       "metric": "🌐 World Headline"
     },
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "Labour ends power-sharing with Greens in 11 councils over Zionism row",
-      "description": "Labour's ruling National Executive Committee sets out where it is cutting ties with the Greens.",
-      "url": "https://www.bbc.co.uk/news/articles/c63dj21yvjd3o?at_medium=RSS&at_campaign=rss",
+      "title": "MP Carla Lockhart quits DUP in Drumcree row",
+      "description": "Lockhart had called for the DUP to remove First Minister Michelle O'Neill from office.",
+      "url": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
       "metric": "🌐 World Headline"
     },
     {
       "category": "global",
       "source": "BBC World News",
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "description": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "title": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+      "description": "Judge William Sullivan said if the case is headed to a retrial, that could happen as soon as March 2027.",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&at_campaign=rss",
       "badge": "Breaking News",
       "metric": "🌐 World Headline"
-    },
-    {
-      "category": "global",
-      "source": "BBC World News",
-      "title": "Nowak family say police failed them multiple times",
-      "description": "The murdered student's family say they feel \"manipulated\" and \"failed\" by Hampshire Police.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg0x7rd402o?at_medium=RSS&at_campaign=rss",
-      "badge": "Breaking News",
-      "metric": "🌐 World Headline"
-    },
-    {
-      "category": "global",
-      "source": "BBC World News",
-      "title": "Lifestyle guru Martha Stewart says she 'really screwed up' with homeless Halloween costume",
-      "description": "The veteran lifestyle guru has deleted a photo of herself wearing torn clothes and dirt on her face.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o?at_medium=RSS&at_campaign=rss",
-      "badge": "Breaking News",
-      "metric": "🌐 World Headline"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Haley Stevens",
-      "views": 360148,
-      "url": "https://en.wikipedia.org/wiki/Haley_Stevens",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 360,148 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Patrick Stewart",
-      "views": 205436,
-      "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 205,436 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": ".xxx",
-      "views": 197312,
-      "url": "https://en.wikipedia.org/wiki/.xxx",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 197,312 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Tung Tung Tung Sahur",
-      "views": 192363,
-      "url": "https://en.wikipedia.org/wiki/Tung_Tung_Tung_Sahur",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 192,363 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Nidhi Razdan",
-      "views": 187499,
-      "url": "https://en.wikipedia.org/wiki/Nidhi_Razdan",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 187,499 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Gabby Williams",
-      "views": 180204,
-      "url": "https://en.wikipedia.org/wiki/Gabby_Williams",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 180,204 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Inde Navarrette",
-      "views": 142063,
-      "url": "https://en.wikipedia.org/wiki/Inde_Navarrette",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 142,063 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Heidi Klum",
-      "views": 141812,
-      "url": "https://en.wikipedia.org/wiki/Heidi_Klum",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 141,812 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Ciara Mageean",
-      "views": 138465,
-      "url": "https://en.wikipedia.org/wiki/Ciara_Mageean",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 138,465 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Elizabeth Holmes",
-      "views": 135985,
-      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 135,985 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Deaths in 2026",
-      "views": 135321,
-      "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 135,321 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Abdul El-Sayed",
-      "views": 134093,
-      "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 134,093 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Jailer 2",
-      "views": 115995,
-      "url": "https://en.wikipedia.org/wiki/Jailer_2",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 115,995 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Ansel Adams",
-      "views": 113390,
-      "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 113,390 views"
-    },
-    {
-      "category": "global",
-      "source": "Wikipedia Top",
-      "title": "Kimi Antonelli",
-      "views": 103995,
-      "url": "https://en.wikipedia.org/wiki/Kimi_Antonelli",
-      "badge": "Knowledge Spike",
-      "metric": "👁️ 103,995 views"
     }
   ]
 }
